@@ -24,5 +24,5 @@ L'analyse a été réalisée pour un cours universitaire dans le but de d'utilis
 
 
 *****Utilisation:
-Pour l'utilisation du code vous devez avoir seulement le fichier csv "accidents_2012_2018.csv" fournie dans le dossier de téléchargement.
+Pour l'utilisation du code vous devez avoir seulement le fichier csv "accidents_2012_2018.csv".
 Déposer le fichier dans Jupyter et lancé chaque input du code.
