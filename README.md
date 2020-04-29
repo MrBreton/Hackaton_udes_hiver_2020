@@ -24,5 +24,5 @@ L'analyse a été réalisée pour un cours universitaire dans le but de d'utilis
 
 
 *****Utilisation:
-Pour l'utilisation du code vous devez avoir seulement le fichier csv "accidents_2012_2018.csv".
-Déposer le fichier dans Jupyter et lancé chaque input du code.
+Télécahrgé les fichiers: Anayse_MTL_2012_2018.ipynb et accidents_2012_2018_lean.csv
+Déposez-les dans Jupyter Notebook et lancé de code
