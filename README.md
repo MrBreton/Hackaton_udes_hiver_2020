@@ -25,5 +25,5 @@ L'analyse a été réalisée pour un cours universitaire dans le but d'utiliser 
 
 
 *****Utilisation:
-Téléchargez les fichiers: Anayse_MTL_2012_2018_lean.ipynb et accidents_2012_2018_lean.csv
+Téléchargez les fichiers: Anayse_MTL_2012_2018.ipynb et accidents_2012_2018_lean.csv
 Déposez-les dans Jupyter Notebook et lancez le code
