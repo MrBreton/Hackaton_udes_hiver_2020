@@ -12,6 +12,7 @@
 
 -Le fichier csv provient du site:
 http://donnees.ville.montreal.qc.ca/dataset/collisions-routieres
+*Le fichier a été épuré pour diminuer sa taille, car il dépassait 25 mbits.
 
 -La fonction "heatmap" provient du site de matplotlib dans les exmeples de Heatmap:
 https://matplotlib.org/3.1.1/gallery/images_contours_and_fields/image_annotated_heatmap.html
@@ -19,10 +20,10 @@ https://matplotlib.org/3.1.1/gallery/images_contours_and_fields/image_annotated_
 
 
 *****But du code:
-L'analyse a été réalisée pour un cours universitaire dans le but de d'utiliser Jupyter Notebook pour analyser et présenter des données tirées d'un fichier csv.
+L'analyse a été réalisée pour un cours universitaire dans le but d'utiliser Jupyter Notebook pour analyser et présenter des données tirées d'un fichier csv.
 
 
 
 *****Utilisation:
-Télécahrgé les fichiers: Anayse_MTL_2012_2018.ipynb et accidents_2012_2018_lean.csv
-Déposez-les dans Jupyter Notebook et lancé de code
+Téléchargez les fichiers: Anayse_MTL_2012_2018_lean.ipynb et accidents_2012_2018_lean.csv
+Déposez-les dans Jupyter Notebook et lancez le code
